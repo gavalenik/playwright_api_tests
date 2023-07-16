@@ -1,0 +1,12 @@
+{
+  "name": "playwright_api_tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gavalenik/playwright_api_tests.git",
+  "author": "Aleks <gavalenik@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  },
+  "scripts": {}
+}
